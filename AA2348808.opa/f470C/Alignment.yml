@@ -1,0 +1,31 @@
+segment_sources:
+  I7C4500CF:
+    type: origin_type
+    relation: translation
+    language: en
+  IBA800DAE:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  719305c112c2451a8e95ba5fb7b016cf:
+    I7C4500CF: 9af4594287454b5c967d7e255861f9cf
+    IBA800DAE: e90794ed12444bc29a95a340120c0603
+  1ad6cf81f94741af9fbe889cdb3f2441:
+    I7C4500CF: 30d49ad47fa74d70be581a0c3e5d1cb7
+    IBA800DAE: 3b00eda6551b4c9ba27f9b7591f2aaeb
+  9b52a4b87666487baf18c0048700c444:
+    I7C4500CF: e32c3dafca3a422e849b682433331918
+    IBA800DAE: b29efad99efa4f719c8d5403df4dd55e
+  590ff801330342aba048e8cb2ef53874:
+    I7C4500CF: 03dc02df71e449b182372bdf8f25c8d8
+    IBA800DAE: 3ce7d29581254ac791bba579bf0a404b
+  5c62c7daaefa437abbdd40c3ed804bbe:
+    I7C4500CF: 128636632272468fb74cfb359dcfb81f
+    IBA800DAE: 4f24f51969de46b587da0490dc659d32
+  e5c28bb7feb84e8e9a6a3143d9ffa088:
+    I7C4500CF: 384b7654bd93423c955e73ec11a99968
+    IBA800DAE: e286869be4ab4245a0dd9aa3d7835295
+  028f26acd8da4c6c94b9aa3790ddf7d3:
+    I7C4500CF: 6526d7c3ba184abba4d61fb5649bbd42
+    IBA800DAE: 794dc1f2397a4398bcbe87817481b5a0
